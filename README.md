@@ -1,5 +1,5 @@
 # Daily-Report
-This repository contain source code and an excel file where I automated a process of preparing Daily report of IMPS transactions data 
+This repository contain source code and 4 snapshots of different worksheets where I automated a process of preparing Daily report of IMPS transactions data 
 of my client as per their requirement and format.
 The Daily report excel file contain 4 sheets in which IMPS transaction data is shared to the client on every 3-hourly basis. Please find
 elaborated description and purpose of every worksheet as follows:
